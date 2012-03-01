@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Convert!</string>
+    <string name="app_name">Radian/Degree Converter</string>
+    <color name="tarHeel">#ADD8E6</color>
+    <color name="black">#000000</color>
+    <string name="myClickHandler">myClickHandler</string>
+    <string name="radian">to Radians</string>
+    <string name="degree">to Degrees</string>
+    <string name="calc">Calculate</string>
+
+</resources>
